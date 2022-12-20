@@ -34,9 +34,9 @@
 This website is relatively new, so for any Bug Report or new feature Request, ping me at the below Social Links.
 
 If you want to **contribute** to my project **you are most welcome.**
-##[Linkedin](https://www.linkedin.com/in/rishabh-sagar-b89122157/ ) 
-##[Instagram](https://www.instagram.com/sagar.rish/ ) 
-##[Twitter](https://twitter.com/rishabh_sagar_)
+
+
+## [Linkedin](https://www.linkedin.com/in/rishabh-sagar-b89122157/ ) [Instagram](https://www.instagram.com/sagar.rish/ ) [Twitter](https://twitter.com/rishabh_sagar_)
 
 # Future Work
 
